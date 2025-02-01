@@ -92,6 +92,16 @@ Hi 👋, I'm Varad Nair ! Welcome to my GitHub profile! I am a Master’s studen
 - **Cloud based College Notes and Assignment Sharing System**  
   Built and implemented a web-based platform for note and assignment sharing, enhancing resource accessibility by 60% with a combination of Django (back-end), Python, PostgreSQL (relational database), HTML5, and CSS (front-end)
 
+- **kNN Algorithm Comparative Analysis Across Datasets**  
+  Conducted a comparative analysis of kNN across 3 datasets from the UCI Machine Learning Repository, implementing and evaluating various distance metrics, plotting performance with Matplotlib, and optimizing computational time by 20%
+
+- **Position Classifier for NBA Players Based on Performance Stats**  
+  Developed and fine-tuned K-Means clustering models on 3 real-world datasets, improving the clustering quality by 25% using feature normalization, ensuring robust segmentations for diverse datasets
+
+- **TF-IDF-Based Toy Search Engine**  
+  Designed and implemented a search engine prototype capable of processing multiple documents with 90% precision using TF-IDF vectorization, leveraging NLP techniques (tokenization, stemming, and stop-word removal) to improve relevance by 20% and optimizing indexing for a 25% reduction in query response time
+
+
 ## 📜 Certifications
 
 - Bing Ads Accredited Professional Certification
