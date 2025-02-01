@@ -23,28 +23,6 @@ Hi 👋, I'm Varad Nair ! Welcome to my GitHub profile! I am a Master’s studen
 
 
 
-## 📊 Leetcode Stats
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/vnvarad_30?ext=heatmap&theme=dark)
-
-## 📊 GitHub Stats
-
-
-<p align="left">
-  
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=varadnair30&theme=github_dark" alt="Profile Details" />
-</p>
-
-
-
-<p align="Left">
-  <img src="https://github-readme-stats.vercel.app/api?username=varadnair30&&count_private=true&?show_icons=true&locale=en&theme=github_dark" alt="GitHub Stats" />
-</p>
-
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=varadnair30&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Top Languages" />
-</p>
 
 
 ## 🛠️ Technical Skills
@@ -121,6 +99,29 @@ Hi 👋, I'm Varad Nair ! Welcome to my GitHub profile! I am a Master’s studen
 
 
 ---
+## 📊 Leetcode Stats
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/vnvarad_30?ext=heatmap&theme=dark)
+
+## 📊 GitHub Stats
+
+
+<p align="left">
+  
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=varadnair30&theme=github_dark" alt="Profile Details" />
+</p>
+
+
+
+<p align="Left">
+  <img src="https://github-readme-stats.vercel.app/api?username=varadnair30&&count_private=true&?show_icons=true&locale=en&theme=github_dark" alt="GitHub Stats" />
+</p>
+
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=varadnair30&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Top Languages" />
+</p>
+
 
 Thank you for visiting my profile. Let's connect and collaborate on future projects!
 
