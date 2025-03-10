@@ -7,7 +7,9 @@
 
 
 # Varad Nair
-
+<p align="center">
+  <img src="[https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif]" alt="Hello World GIF">
+</p>
 Hi 👋, I'm Varad Nair ! Welcome to my GitHub profile! I am a Master’s student in Computer Science at the University of Texas at Arlington (Expected Graduation: May 2025) with a strong passion for full-stack development, machine learning, and cloud technologies. My focus is on building scalable and secure applications leveraging modern frameworks and architectures. Feel free to explore my repositories and connect with me!
 
 ![](https://komarev.com/ghpvc/?username=varadnair30&color=orange&style=for-the-badge&label=Profile+Views)
