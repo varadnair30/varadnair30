@@ -8,7 +8,7 @@
 
 # Varad Nair
 <p align="center">
-  <img src="[[https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif]](https://media.giphy.com/media/i1JHRZSXO9LZZDHqii/giphy.gif?cid=ecf05e47hnajxgvdjl45tstepvqp9rs139rn4j13xu1bflss&ep=v1_gifs_search&rid=giphy.gif&ct=g)" alt="Hello World GIF">
+  <img src="https://media.giphy.com/media/xHEPtVlwQ4sJs07clI/giphy.gif?cid=790b7611079b7oqxfm6dad5446v1bl2z2k9v5u44rjr5obe3&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Hello World GIF">
 </p>
 Hi 👋, I'm Varad Nair ! Welcome to my GitHub profile! I am a Master’s student in Computer Science at the University of Texas at Arlington (Expected Graduation: May 2025) with a strong passion for full-stack development, machine learning, and cloud technologies. My focus is on building scalable and secure applications leveraging modern frameworks and architectures. Feel free to explore my repositories and connect with me!
 
