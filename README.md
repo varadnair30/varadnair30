@@ -114,7 +114,9 @@
 ---
 ## 📊 Leetcode Stats
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/vnvarad_30?ext=heatmap&theme=dark)
+
+![Leetcode Full Stats](https://leetcard.jacoblin.cool/vnvarad_30?ext=heatmap,contest&theme=dark)
+
 
 ## 📊 GitHub Stats
 
